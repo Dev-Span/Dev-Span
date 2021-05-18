@@ -23,7 +23,7 @@ const Dev_Span = {
 ```
 ## Stats
 <hr>
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=Dev_Span&theme=dracula"></div>
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=Dev-Span&theme=dracula"></div>
 
 - I coding on My Discord Bot Luna
 
