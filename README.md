@@ -44,4 +44,9 @@ Css 4%
 ### - 1. Visual Studio Code / Github
 #### -  2. Glitch
 
+<details>
+    <summary><b>GitHub</b> Activity</summary>
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Dev-Span&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Span&theme=tokyonight&hide=batchfile">
+</details>
+
 # I coding with ❤️ and JavaScript!
