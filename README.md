@@ -21,10 +21,6 @@ const Dev_Span = {
     TotalCommits: 2782
 };
 ```
-## Stats
-<hr>
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=Dev-Span&theme=dracula"></div>
-
 # MY Discord Bots
 
 - LunaMusik
@@ -46,7 +42,9 @@ Css 4%
 ### - 1. Visual Studio Code / Github
 #### -  2. Glitch
 
-# Details
+## Stats
+<hr>
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=Dev-Span&theme=dracula"></div>
 
 <details>
     <summary><b>GitHub</b> Activity</summary>
