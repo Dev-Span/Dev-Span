@@ -5,8 +5,7 @@
 
 # Coding Language
 ```
-Javascript 64%
-Java 22%
+Javascript 86%
 Html 10%
 Css 4%
 ```
