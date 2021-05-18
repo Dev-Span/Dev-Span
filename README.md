@@ -27,6 +27,9 @@ const Dev_Span = {
 
 - [Click here to add Luna](https://discord.com/oauth2/authorize?client_id=723927058870304869&permissions=8&scope=bot+&response_type=code&redirect_uri=https%3A%2F%2Fdiscord.com%2Finvite%2FexkAV5B9ez)
 
+## How I became a developer?
+Check [How I became a developer](https://github.com/Dev_Span/Dev_Span/blob/master/How%20I%20became%20a%20dev.md)
+
 # Coding Language
 ```
 Javascript 86%
