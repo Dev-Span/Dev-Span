@@ -11,3 +11,8 @@ Css 4%
 ```
 
 ##### Favourite Coding Language JavaScript
+
+
+Coding Platform:
+### - 1. Visual Studio Code / Github
+####-  2. Glitch
