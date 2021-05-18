@@ -1,4 +1,15 @@
-# My Bio
+<!-- You found this secret 👏 -->
+<!--
+    My secret things lol
+    
+    - I code more hours 
+    - I am a gamer too 
+    - I play minecraft, roblox, AMOUNG US ;-;
+    - This readme.md is created using GitHub Codespaces 👀
+    - I am also a YouTuber XD, make sure to sub ;-;
+-->
+
+## Hello, Im Sudhan <img src="https://raw.githubusercontent.com/Dev-Span/Dev-Span/main/src/Hi.gif" width="30px">
 
 - Hi i am Dev_Span 
 
