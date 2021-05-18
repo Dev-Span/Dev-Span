@@ -4,7 +4,7 @@
     
     - I code more hours 
     - I am a gamer too 
-    - I play minecraft, roblox, AMOUNG US ;-;
+    - I play minecraft, AMOUNG US ;-;
     - This readme.md is created using GitHub Codespaces 👀
     - I am also a YouTuber XD, make sure to sub ;-;
 -->
