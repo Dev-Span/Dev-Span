@@ -21,7 +21,9 @@ const Dev_Span = {
     TotalCommits: 2782
 };
 ```
-
+## Stats
+<hr>
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=Dev_Span&theme=dracula"></div>
 
 - I coding on My Discord Bot Luna
 
