@@ -9,7 +9,7 @@
     - I am also a YouTuber XD, make sure to sub ;-;
 -->
 
-## - Hello, Im Dev_Span <img src="https://raw.githubusercontent.com/Dev-Span/Dev-Span/main/src/Hi.gif" width="30px"> 
+## Hello, Im Dev_Span <img src="https://raw.githubusercontent.com/Dev-Span/Dev-Span/main/src/Hi.gif" width="30px"> 
 
 ```Javascript
 const Dev_Span = {
