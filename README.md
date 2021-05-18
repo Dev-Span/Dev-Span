@@ -16,9 +16,6 @@ const Dev_Span = {
     Age: 14,
     Description: "I'm using Javascript more these days",
     FavouriteLanguage: "Javascript / Html",
-    OpenedIssues: 13,
-    OpenedPullRequests: 47,
-    TotalCommits: 2782
 };
 ```
 # My Discord Bots
