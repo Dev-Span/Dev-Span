@@ -21,7 +21,7 @@ const Dev_Span = {
     TotalCommits: 2782
 };
 ```
-# MY Discord Bots
+# My Discord Bots
 
 - LunaMusik
 
