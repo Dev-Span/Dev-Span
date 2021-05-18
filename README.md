@@ -1,6 +1,6 @@
 # My Bio
 
-- Hi i am Dev_Span :hand
+- Hi i am Dev_Span 
 
 ```Javascript
 const Dev_Span = {
