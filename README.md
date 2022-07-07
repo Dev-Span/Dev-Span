@@ -13,9 +13,8 @@
 
 ```Javascript
 const Dev_Span = {
-    Age: "No",
-    Description: "I'm using Javascript more these days",
-    FavouriteLanguage: "Javascript / Html",
+    Description: "I'm using Javascript",
+    MostUsedLanguage: "Javascript / Html",
 };
 ```
 # My Discord Bots
