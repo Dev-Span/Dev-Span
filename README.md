@@ -29,10 +29,10 @@ const Dev_Span = {
 <hr>
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=Dev-Span&theme=dracula"></div>
 
-<details>
+
 
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=Dev-Span&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Span&theme=tokyonight&hide=batchfile">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-Span&theme=tokyonight">
-</details>
+
 
 ## I coding with ❤️ and JavaScript!
