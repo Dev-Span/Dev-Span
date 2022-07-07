@@ -28,7 +28,7 @@ const Dev_Span = {
 ## Stats
 <hr>
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=Dev-Span&theme=dracula"></div>
-
+ <div align="left" src="https://github-readme-stats.vercel.app/api?username=Dev-Span&theme=tokyonight">
 
 
     <div align="left" src="https://github-readme-stats.vercel.app/api?username=Dev-Span&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Span&theme=tokyonight&hide=batchfile">
