@@ -31,8 +31,8 @@ const Dev_Span = {
 
 
 
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Dev-Span&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Span&theme=tokyonight&hide=batchfile">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-Span&theme=tokyonight">
+    <div align="left" src="https://github-readme-stats.vercel.app/api?username=Dev-Span&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Span&theme=tokyonight&hide=batchfile">
+    <div src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-Span&theme=tokyonight">
 
 
 ## I coding with ❤️ and JavaScript!
