@@ -23,6 +23,8 @@ const Dev_Span = {
 
 - [Click here to add Luna](https://discord.com/oauth2/authorize?client_id=723927058870304869&permissions=8&scope=bot+&response_type=code&redirect_uri=https%3A%2F%2Fdiscord.com%2Finvite%2FexkAV5B9ez)
 
+- [Discord Server](https://discord.gg/exkAV5B9ez)
+
 
 <h2 align="center"> 🚀 My Stats 🚀</h2>
 <p align="center">
