@@ -47,7 +47,6 @@ const Dev_Span = {
 ![](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?labelColor=black&logo=Visual%20Studio%20Code) 
 
 ### OS
-![](https://img.shields.io/badge/ChromeOS-4285F4?labelColor=black&logo=Google%20Chrome) 
 ![](https://img.shields.io/badge/Android-3DDC84?labelColor=black&logo=Android) 
 ![](https://img.shields.io/badge/Windows-0078D6?labelColor=black&logo=Windows) 
 
