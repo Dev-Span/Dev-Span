@@ -35,11 +35,6 @@ const Dev_Span = {
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?labelColor=black&logo=JavaScript)
 ![](https://img.shields.io/badge/HTML5-E34F26?labelColor=black&logo=HTML5)
 ![](https://img.shields.io/badge/CSS3-1572B6?labelColor=black&logo=CSS3)
-![](https://img.shields.io/badge/Scss-CC6699?labelColor=black&logo=Sass)
-![](https://img.shields.io/badge/Nuxt.js-00DC82?labelColor=black&logo=Nuxt.js)
-![](https://img.shields.io/badge/Vue.js-4FC08D?labelColor=black&logo=Vue.js)
-![](https://img.shields.io/badge/Next.js-000000?labelColor=black&logo=Next.js)
-![](https://img.shields.io/badge/React-61DAFB?labelColor=black&logo=React)
 
 
 ### Hostings
