@@ -57,4 +57,4 @@ const Dev_Span = {
 ![](https://img.shields.io/badge/Windows-0078D6?labelColor=black&logo=Windows) 
 
 ### Social
-![](https://img.shields.io/badge/Discord%20(Dev_Span#8884)-5865F2?labelColor=black&logo=Discord) 
+![](https://img.shields.io/badge/Discord%20(Dev_Span%238884)-5865F2?labelColor=black&logo=Discord) 
