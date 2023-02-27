@@ -31,4 +31,4 @@ const Dev_Span = {
 ## More
 
 ### Social
-![](https://img.shields.io/badge/Discord%20(Dev_Span%238884)-5865F2?labelColor=black&logo=Discord) 
+![](https://img.shields.io/badge/Discord%20(Dev_Span%237997)-5865F2?labelColor=black&logo=Discord) 
