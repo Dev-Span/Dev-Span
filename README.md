@@ -27,8 +27,3 @@ const Dev_Span = {
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Span&layout=compact&show_icons=true&theme=dark" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Dev-Span&theme=dark&show_icons=ture" />
 </p>
-
-## More
-
-### Social
-![](https://img.shields.io/badge/Discord%20(Dev_Span%237997)-5865F2?labelColor=black&logo=Discord) 
